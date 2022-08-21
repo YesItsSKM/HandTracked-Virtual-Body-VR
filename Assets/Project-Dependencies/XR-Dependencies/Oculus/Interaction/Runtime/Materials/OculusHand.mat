@@ -94,7 +94,7 @@ Material:
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
-    - _Opacity: 1
+    - _Opacity: 0.01
     - _OutlineFresnelOpacity: 0
     - _OutlineFresnelPower: 2.462451
     - _OutlineGlowIntensity: 1
