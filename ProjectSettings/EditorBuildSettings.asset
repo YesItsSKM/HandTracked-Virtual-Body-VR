@@ -9,11 +9,11 @@ EditorBuildSettings:
     path: Assets/Scenes/Intro.unity
     guid: ed068f72ec7cc234f9253cc88f431f83
   - enabled: 1
-    path: Assets/Scenes/Story Mode.unity
-    guid: c7ac1a92c7661014194d87cbc918f853
-  - enabled: 1
     path: Assets/Scenes/How To Play.unity
     guid: 3afe7dfa16abb564384ab5e67faad0e1
+  - enabled: 1
+    path: Assets/Scenes/Physics Scene.unity
+    guid: c152bf2195b62d44ea4ae2a3f3499879
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 8e2001c2e868bcb4f995d021e8da2c72, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 83e930e5339aafd45a4a13685225e496, type: 2}
