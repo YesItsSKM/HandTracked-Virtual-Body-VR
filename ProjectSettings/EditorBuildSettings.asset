@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Intro.unity
     guid: ed068f72ec7cc234f9253cc88f431f83
   - enabled: 1
-    path: Assets/Scenes/How To Play.unity
+    path: Assets/Scenes/Locomotion Scene.unity
     guid: 3afe7dfa16abb564384ab5e67faad0e1
   - enabled: 1
     path: Assets/Scenes/Physics Scene.unity
