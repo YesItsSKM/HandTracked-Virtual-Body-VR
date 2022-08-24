@@ -10,7 +10,7 @@ public class ScreenFade : MonoBehaviour
 
     IEnumerator DisablePanel()
     {
-        yield return new WaitForSeconds(0.5f);
+        yield return new WaitForSeconds(1f);
 
         this.transform.gameObject.SetActive(false);
     }
