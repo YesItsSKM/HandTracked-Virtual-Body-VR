@@ -2238,8 +2238,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0950df82e7936c84983497630bde5b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Acceleration: 0.015
-  BackwardsAcceleration: 0.9
+  Acceleration: 0.012
+  BackwardsAcceleration: 0.75
   Damping: 0.3
   BackAndSideDampen: 0.5
   JumpForce: 0.3
@@ -22202,7 +22202,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1734801018
 Transform:
   m_ObjectHideFlags: 0
@@ -40361,7 +40361,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &3197870131970979692
 MonoBehaviour:
   m_ObjectHideFlags: 0
